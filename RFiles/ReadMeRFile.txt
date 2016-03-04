@@ -1,0 +1,1 @@
+Instructions on how to run the R file1. Change path="/Users/yunwang/myFile/unimelb/machinelearning/assignment2/project2_data/"   in each R file to the path of data on your computer.2. Select all the R code and click Run button3. The plots are in the Plots section in R studio, use back or forward tab to see different plots.
